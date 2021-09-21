@@ -30,7 +30,6 @@ Android application that displays a list of currently played movies sourced from
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 ---
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Flix Part 1
 
